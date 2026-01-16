@@ -4,7 +4,9 @@
   "description": "**Nom** : Tricolici Petru\r **Email Vinci** : [petru.tricolici@student.vinci.be]\r **URL GitHub** : [https://github.com/petru-tricolici-vinci/IPL-social]",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "test": "jest",
+    "watch:test": "jest --watch"
   },
   "repository": {
     "type": "git",
