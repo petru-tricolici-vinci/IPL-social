@@ -15,5 +15,5 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: npm run build  # Transpile TypeScript → JavaScript
-      - run: npm test       # Exécute les tests Jest
+      - run: chmod +x node_modules/.bin/jest  # Donne les permissions d'exécution à Jest
+      - run: npm test
