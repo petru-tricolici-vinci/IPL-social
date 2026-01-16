@@ -1,6 +1,6 @@
 # IPL Social - Projet DevOps
 
-**Nom** : Tricolici Petru
+**Nom et Prenom** : Tricolici Petru
 **Email Vinci** : [petru.tricolici@student.vinci.be]
 **URL GitHub** : [https://github.com/petru-tricolici-vinci/IPL-social]
 
