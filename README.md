@@ -13,4 +13,5 @@ Ce projet simule une application sociale basique avec des tests unitaires écrit
 ## Lancer les tests
 Pour exécuter les tests localement :
 ```bash
+npm run build
 npm test
